@@ -1,4 +1,6 @@
 
-To play around with pyagme a little, I implemented this game of Kalah.  I like to extend it by adding options for different rules, as well as better graphics,a better interface in general, some for of tutorial, and the option to play against an AI.
+To play around with pyagme a little, I implemented this game of Kalah.  I like to extend it by adding options for different rules, as well as better graphics, a better interface in general, and the option to play against an AI.
+
+I've included the python files for the popup menu library I am using (which can also be found at code.google.com/p/simple-pygame-menu/).
 
 -- Caelyn McAulay, caelyn@ceruleanrodent.com, May 2012
